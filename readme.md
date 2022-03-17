@@ -4,5 +4,6 @@ Algunos datos sobre mí:
 - Me gusta la tecnología desde que tengo memoria.
 - Paso mucho tiempo en la compu.
 - Me gustan los juegos, entrenar y los autos/motos.
+
 Dejo una foto con mi moto :)
 ![Texto alternativo](file:///C:/Users/franc/Desktop/yo.jpg "Título alternativo")
