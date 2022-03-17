@@ -4,5 +4,5 @@ Algunos datos sobre mí:
 - Me gusta la tecnología desde que tengo memoria.
 - Paso mucho tiempo en la compu.
 - Me gustan los juegos, entrenar y los autos/motos.
-![Texto alternativo](blob:https://web.whatsapp.com/17cd1394-bca8-43df-a397-114f697936ad "Título alternativo")
+![Texto alternativo](file:///C:/Users/franc/Desktop/yo.jpg "Título alternativo")
 Dejo una foto con mi moto :)
