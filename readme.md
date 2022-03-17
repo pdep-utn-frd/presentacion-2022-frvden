@@ -1,5 +1,5 @@
-# Presentación 2022
-Qué tal, mi nombre es Franco Denis, tengo 21 años y actualmente soy estudiante de Ing. en Sistemas en la UTN FRD.
+# Presentación de Franco Denis
+Qué tal, tengo 21 años y actualmente soy estudiante de Ing. en Sistemas en la UTN FRD.
 Algunos datos sobre mí:
 - Adoro la tecnología desde que tengo memoria.
 - Paso mucho tiempo en la compu.
