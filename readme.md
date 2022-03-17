@@ -5,5 +5,4 @@ Algunos datos sobre mí:
 - Paso mucho tiempo en la compu.
 - Me gustan los juegos, entrenar y los autos/motos.
 
-Dejo una foto con mi moto :)
-![Texto alternativo](file:///C:/Users/franc/Desktop/yo.jpg "Título alternativo")
+![Texto alternativo](http://significadodeloscolores.info/wp-content/uploads/2014/08/color-violeta.png "Título alternativo")
